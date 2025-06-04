@@ -70,7 +70,7 @@ PRs welcome. Memes encouraged. Shill responsibly.
 
 ## 📲 Links
 
-- 🧠 Twitter: [Twitter/X]https://x.com/devopsaicoin
+- 🧠 Twitter: https://x.com/devopsaicoin
 - 🚀 Pump.fun page: (coming soon)
 - 🧪 GitHub: You're here.
 
